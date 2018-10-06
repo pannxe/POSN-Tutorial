@@ -17,7 +17,7 @@
 
 ง่ายๆครับ เราก็สามารถแยกออกเป็นหลายๆรูปย่อยได้ เนื่องจาก มันบินผ่านมุม
 
-![รูปในกรณีห.ร.ม != 1](D:\Programming stuff\Solution\images\OTOG_61.PNG)
+![รูปในกรณีห.ร.ม != 1](https://github.com/pannxe/POSN-Tutorial/blob/master/06%20oct%202018/images/OTOG_61.PNG)
 
 
 
