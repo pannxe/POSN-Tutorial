@@ -11,10 +11,7 @@ int main() {
     int n;
     char x;
     scanf("%d %c", &n, &x);
-    if (e < 'Z')
-        printf("%c", (x-'A'+n)%26 + 'A');
-    else
-        printf("%c", (x-'a'+n)%26 + 'a');
+        printf("%c", x+c);
     return 0;
 }
 ```
