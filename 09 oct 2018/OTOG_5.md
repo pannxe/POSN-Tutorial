@@ -44,7 +44,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// ประกาศที่ goble เพราะอยากให้ค่าเริ่มต้นเป็น 0 ไว้ก่อน
+// ประกาศที่ global เพราะอยากให้ค่าเริ่มต้นเป็น 0 ไว้ก่อน
 int coef[21], count, weight; 
 
 int main() {
