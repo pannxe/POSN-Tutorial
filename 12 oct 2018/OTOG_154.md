@@ -9,7 +9,7 @@
 int a[21];
 for(int i=1 i<=0; i++)
 {
-	scanf(“%d”,&a[i]);
+    scanf(“%d”,&a[i]);
     if (i>0)
     	a[i] += a[i-1];
 }
